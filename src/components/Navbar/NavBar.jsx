@@ -6,9 +6,9 @@ const NavBar = () => {
     <div className="navbar">
         <span className="logo">donCreations</span>
         <div className="user">
-            <img src="" alt="" />
+            <img src="https://images.pexels.com/photos/819530/pexels-photo-819530.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" />
             <span>John</span>
-            <button>logout</button>
+            <button>Logout</button>
         </div>
     </div> 
   )
